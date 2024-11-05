@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://okiluuje.github.io/QaN/sitemap_index.txt
+Sitemap: https://okiluuje.github.io/dTi/sitemap_index.txt
+Sitemap: https://okiluuje.github.io/qka/sitemap_index.txt
+Sitemap: https://okiluuje.github.io/sdx/sitemap_index.txt
